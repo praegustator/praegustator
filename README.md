@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Nikolay Pavlov a.k.a. @praegustator
-I am currently a head of project for medical datasets preparation.
+I am currently a Project Engineer in Snke OS GmbH, Munich, Germany.
 
 I became:
 * a medical doctor in 2013;
@@ -12,8 +12,15 @@ I became:
 * new products that improve living, bring peace and help those who are in need. 
 
 ## 🌱 I’m currently learning...
-* Angular (looking forward to try vue.js)
-* Firebase features (currently Functions to use for Telegram Bot)
+* wxPython
+* vue.js
+* Node.js
+* GraphQL, Apollo, graphql-compose-mongoose
+
+## ✨ Something I learned a bit before...
+* Angular
+* Node.js
+* Firebase features
 
 ## 📫 How to reach me...
 Write me a mail or a message:
